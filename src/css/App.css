@@ -1,0 +1,21 @@
+.box{
+    /* background-color: lightgrey; */
+    border: 2px solid green;
+    padding: 1px 8px 4px 10px;
+    cursor: pointer;
+}
+.box1{
+        /* background-color: lightgrey; */
+        border: 2px solid green;
+        padding: 1px 8px 4px 10px;
+        cursor: pointer;
+}
+.box2{
+    /* background-color: lightgrey; */
+    border: 2px solid green;
+    padding: 1px 8px 4px 10px;
+    cursor: pointer;
+}
+.container{
+    margin-top: 8px;
+}
